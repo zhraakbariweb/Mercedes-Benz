@@ -1,0 +1,53 @@
+header {
+    padding-bottom: 10px;
+
+}
+
+.nav-item {
+    font-family: "Forum", serif;
+    
+}
+
+
+.navbar-toggler {
+   border: none;
+     font-family: "Forum", serif;
+   
+}
+
+.menu-hover {
+    transition:0.1s;
+}
+.menu-hover:hover{
+    transform: scale(1.1);
+}
+
+.hero {
+    background-image: url(../img/2026-10-amg-gt-suv-x591-still-01-exterior-range-fullbleed-fullbleed-tiff-rgb-hi-master16x9.avif);
+    min-height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 120px;
+
+
+    div>button{
+        width: 120px;
+    }
+div>button:hover{
+    background-color: rgba(0, 123, 255, 0.79);
+transition: 0.5s;
+
+}
+}
+.hero-title{
+    max-width: 100%;
+}
+@media (min-width:768px){
+   .hero-content{
+    padding-left: 100px;}
+   .hero-title{
+    max-width: 50%;}
+}
