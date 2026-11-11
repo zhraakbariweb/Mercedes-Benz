@@ -63,7 +63,6 @@ Zahra Akbari
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ---
-
 <div align="center">
   <i>If you like this project, please give it a ⭐️!</i>
 </div>
