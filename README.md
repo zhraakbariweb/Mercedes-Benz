@@ -37,6 +37,22 @@
 </div>
 
 ---
+## 📸 Preview
+
+<div align="center">
+
+
+
+![Preview](./assets/img/preview.jpg.png)
+
+
+
+</div>
+
+> Add a screenshot of your site to `assets/img/preview.png`.
+
+---
+
 
 ## 📖 About
 
@@ -100,21 +116,6 @@ Or use a local server such as the VS Code **Live Server** extension.
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-
-
-
-![Preview](./assets/img/preview.jpg.png)
-
-
-
-</div>
-
-> Add a screenshot of your site to `assets/img/preview.png`.
-
----
 
 ## 🗺️ Roadmap
 
