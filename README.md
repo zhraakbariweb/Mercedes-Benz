@@ -25,7 +25,7 @@
 </div>
 
 ---
-## 📸 Preview
+
 
 <div align="center">
 
@@ -36,8 +36,6 @@
 
 
 </div>
-
-> Add a screenshot of your site to `assets/img/preview.png`.
 
 ---
 
