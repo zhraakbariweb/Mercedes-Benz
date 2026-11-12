@@ -3,6 +3,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Mercedes-Logo.svg" alt="Mercedes-Benz Logo" width="110"/>
 
 # Mercedes-Benz
+---
+<div align="center">
+
+
+
+![Preview](./assets/img/preview.jpg.png)
+
+
+
+</div>
 
 **A modern, responsive front-end tribute to the three-pointed star.**
 
@@ -21,19 +31,6 @@
 
 
 [🌐 Live Demo](https://zhraakbariweb.github.io/Mercedes-Benz/) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
-
-</div>
-
----
-
-
-<div align="center">
-
-
-
-![Preview](./assets/img/preview.jpg.png)
-
-
 
 </div>
 
